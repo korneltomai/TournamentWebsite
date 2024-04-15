@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TournamentWebsite", "TournamentWebsite\TournamentWebsite.csproj", "{BFE114D2-AD6C-475B-8A34-F2F4339BB340}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TournamentWebsite", "TournamentWebsite\TournamentWebsite.csproj", "{BFE114D2-AD6C-475B-8A34-F2F4339BB340}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyTheme.OrchardCore", "OrchardCore.Themes\MyTheme.OrchardCore\MyTheme.OrchardCore.csproj", "{1B025122-9006-4410-9A2F-AE78E5EE07C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BFE114D2-AD6C-475B-8A34-F2F4339BB340}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFE114D2-AD6C-475B-8A34-F2F4339BB340}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFE114D2-AD6C-475B-8A34-F2F4339BB340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B025122-9006-4410-9A2F-AE78E5EE07C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B025122-9006-4410-9A2F-AE78E5EE07C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B025122-9006-4410-9A2F-AE78E5EE07C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B025122-9006-4410-9A2F-AE78E5EE07C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
